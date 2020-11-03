@@ -1,2 +1,3 @@
 *.fasl
 *.swp
+.DS_STORE
